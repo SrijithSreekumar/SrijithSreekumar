@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SrijithSreekumar
-- 👀 I’m interested in devloping Deep learning algorithm tp solve numerical complexity in the field of Fluid Dynamics 
+- 👀 I’m interested in devloping Deep learning algorithm to solve numerical complexity in the field of Fluid Dynamics 
 - 🌱 I’m currently working as Research Assistant at Otto Von Guericke University, Germany(Part-time)
-- 💞️ I’m looking to collaborate on project involving optimization of the simulation aided with developing numerical model in the field of combustion flame or turbulent flow using Deep learnig algorithm 
+- 💞️ I’m looking to collaborate on project involving optimization of the simulation aided with developing numerical model in the field of combustion flame or turbulent flow using Deep learnig algorithm (PINN)
 - 📫 How to reach me :srijithchintoo@gmail.com
 
 <!---
